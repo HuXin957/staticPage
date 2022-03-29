@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2f8927b-43c6-49e5-b873-533841f9ef69" name="默认的" comment="first" />
+    <list id="a71884f8-f401-4aa6-a5c5-5136bffe66ba" name="first" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/account001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/imgdefult.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/jj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/jj1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/jj2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/kf0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/mancertification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/musdef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/off01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/rz001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/rz002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/rz003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/setdrawing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/ts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/videodef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/wish01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/安全账号/xll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/1d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/3ding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/attestation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/bmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/broadcast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/bstar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/btime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/eat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/goddess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/invitation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/modify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/motion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/ms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/mvip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/party.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/privacy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/qa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/recommend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/release.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/travel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vip8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/vip/vipmain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/wallet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/我的切图/wish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/bigsysmsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/broadcast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/circlemsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/commentmsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/defpoto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/evaluatemsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/likemsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/mandef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/mburn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/partymsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/seemsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/sysmsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/walletmsg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/wmandef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/消息切图/xrxx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/correct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/friend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/headpoto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/hobby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/introduce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/man1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/man2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/mxxx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/occupation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/regbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/soso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/wman1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/wman2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/wx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/wxz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/xx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/xxx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/xyyy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/登录注册切图/yxz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/聊天/fm001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/聊天/fm002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/聊天/sho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/聊天/sho0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/about1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/blacklist1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/burn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/burn1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/clean1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/del.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/make1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/member.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/msg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/pri1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/sec1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/select1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/wx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/设置切图/zfb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/goddess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/gz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/gz1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/man1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/poto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/home1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/my1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/news1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/party.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/table/party1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/vip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/wman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/wman1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/images/首页切图/xl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/vip会员弹框.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页-心愿.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页-心愿2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页-心愿送礼.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页-查看相册.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页-申请查看.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页-男生.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/个人主页.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/主页-查看充值-安卓.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/主页-查看充值.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/主页-申请查看.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/余额不足.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/匿名投诉.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/安卓支付方式.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/开通会员弹框.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/未查看的阅后即焚.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/真人认证弹框.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/私聊-管理操作.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/私聊-送礼物.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/私聊.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/解锁相册.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/认证中心-下一步.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/认证中心-下一步2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/认证中心-下一步3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/认证中心-下一步4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/认证中心.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/个人主页/非会员男弹框.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/修改密码.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/发布心愿.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/心愿大厅.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/我的心愿.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/绑定手机号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/认证中心.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/设置开锁图案.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/账号验证.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/安全账号/面容认证.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/开通会员.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/我的动态.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/我的弹窗.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/我的桃花币.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/我的续费.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/我的聚会.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/编辑资料.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/聚会详情.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/设置.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/我的/隐私设置.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/个人主页弹窗.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/新消息通知.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/查看申请.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/消息通知.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/白雪佳人公告.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/私聊.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/私聊默认.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/聚会消息.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/消息/评价通知.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/动画.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/基本资料.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/基本资料三.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/基本资料二.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/填写邀请码.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/完善资料.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/密码登录.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/常驻城市.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/快捷注册.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/快捷登录.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/手机号注册.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/登录/选择地区.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聊天/地图.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聊天/拍摄.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聊天/拍摄1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聊天/拍摄2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聊天/推荐语.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聚会/主题聚会.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聚会/发动态.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聚会/发布.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聚会/发布聚会.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/聚会/备注.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/交友设置.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/关于我们.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/我的相册.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/我的邀请.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/收益提现.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/新消息通知.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/粉丝.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/设置.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/设置阅后即焚.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/账号与安全.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/邀请有礼.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/隐私设置.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/设置/黑名单.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/首页/附近选择人.js" afterDir="false" />
+    </list>
+    <list id="09138796-a799-4232-a8cf-0e8f7bb51a4a" name="init" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Code_mine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/BFC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/Generator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/H5标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/css滚动条.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/flex布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/js练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/三个数找最大值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/圣杯布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/断网.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/标签函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/树.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/正则表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/深拷贝、浅拷贝.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/跳出循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/递归.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/面试.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_study/面试题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HuQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobx_study/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobx_study/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_study/huq-website" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack-study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobx_study/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mobx_study/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobx_study/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mobx_study/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobx_study/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mobx_study/yarn.lock" afterDir="false" />
+    </list>
+    <list id="04230f63-3285-473d-bd08-aa8ab6926e73" name="初始化项目" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="21tUPntHUPFL5CYvBwz4y31xACw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/images/聊天" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/聊天" />
+      <recent name="$PROJECT_DIR$/pages/安全账号" />
+      <recent name="$PROJECT_DIR$/pages/images" />
+      <recent name="$PROJECT_DIR$/pages/首页" />
+      <recent name="$PROJECT_DIR$/pages/我的" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/images/聊天" />
+      <recent name="$PROJECT_DIR$/pages/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="android" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.android" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f8927b-43c6-49e5-b873-533841f9ef69" name="默认的" comment="" />
+      <changelist id="a71884f8-f401-4aa6-a5c5-5136bffe66ba" name="first" comment="" />
+      <changelist id="04230f63-3285-473d-bd08-aa8ab6926e73" name="初始化项目" comment="" />
+      <changelist id="09138796-a799-4232-a8cf-0e8f7bb51a4a" name="init" comment="" />
+      <created>1638759855478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638759855478</updated>
+      <workItem from="1638759856538" duration="22466000" />
+      <workItem from="1638867368670" duration="3307000" />
+      <workItem from="1639281627138" duration="34486000" />
+      <workItem from="1639542599522" duration="17172000" />
+      <workItem from="1640592655843" duration="415000" />
+      <workItem from="1640593083690" duration="43110000" />
+      <workItem from="1641038157442" duration="333000" />
+      <workItem from="1641277634738" duration="10197000" />
+      <workItem from="1641370345252" duration="3670000" />
+      <workItem from="1641530338798" duration="1543000" />
+      <workItem from="1641957593297" duration="2718000" />
+      <workItem from="1642427118692" duration="4000" />
+      <workItem from="1646453121511" duration="6000" />
+      <workItem from="1646453142836" duration="4887000" />
+      <workItem from="1648519039559" duration="981000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1648519974208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648519974208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="137" key="CommitChangelistDialog2" timestamp="1648520154360">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="391" y="137" key="CommitChangelistDialog2/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1648520154360" />
+    <state x="597" y="351" key="Github.ShareDialog" timestamp="1648519405727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="597" y="351" key="Github.ShareDialog/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1648519405727" />
+    <state width="1419" height="274" key="GridCell.Tab.0.bottom" timestamp="1646618746774">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.25.2560.1055@0.0.1440.900" timestamp="1641288590379" />
+    <state width="1419" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1646618746774" />
+    <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.2560.1055@0.25.1440.875" timestamp="1640595516986" />
+    <state width="1419" height="274" key="GridCell.Tab.0.center" timestamp="1646618746773">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.center/0.0.1440.900/1440.25.2560.1055@0.0.1440.900" timestamp="1641288590379" />
+    <state width="1419" height="274" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1646618746773" />
+    <state width="1419" height="166" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.2560.1055@0.25.1440.875" timestamp="1640595516985" />
+    <state width="1419" height="274" key="GridCell.Tab.0.left" timestamp="1646618746771">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.left/0.0.1440.900/1440.25.2560.1055@0.0.1440.900" timestamp="1641288590379" />
+    <state width="1419" height="274" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1646618746771" />
+    <state width="1419" height="166" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.2560.1055@0.25.1440.875" timestamp="1640595516984" />
+    <state width="1419" height="274" key="GridCell.Tab.0.right" timestamp="1646618746774">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.right/0.0.1440.900/1440.25.2560.1055@0.0.1440.900" timestamp="1641288590379" />
+    <state width="1419" height="274" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1646618746774" />
+    <state width="1419" height="166" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.2560.1055@0.25.1440.875" timestamp="1640595516986" />
+    <state x="570" y="367" key="VCS.ChangelistChooser" timestamp="1648520036350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="570" y="367" key="VCS.ChangelistChooser/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1648520036350" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1648519989601">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1648519989601" />
+    <state x="454" y="205" width="754" height="490" key="find.popup" timestamp="1646458166100">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="454" y="205" width="754" height="554" key="find.popup/0.0.1440.900/1440.25.2560.1055@0.0.1440.900" timestamp="1641287511597" />
+    <state x="454" y="205" width="754" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1646458166100" />
+    <state x="542" y="348" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1648519929144">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="348" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1648519929144" />
+  </component>
+</project>
